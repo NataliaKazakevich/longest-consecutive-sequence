@@ -25,5 +25,3 @@ for (let i = 1; i < array.length; i++) {
   }
   first = array[i];
 }
-return max;
-}
